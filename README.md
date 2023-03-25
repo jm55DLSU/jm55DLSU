@@ -2,7 +2,7 @@
 
 **jm55DLSU**
 This account is used for ongoing projects in DLSU Manila.
-All of the repostories that have concluded (i.e., submitted) are to be transferred to my personal account.
+All of the repostories that have concluded (i.e., submitted) are to be transferred to my personal account [jm55](https://github.com/jm55).
 
 - Known languages and technologies:
   - Java, Python, C/C++ (Basic), JS
